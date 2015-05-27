@@ -1,4 +1,4 @@
-# rpgmaker-script-skeleton
+# rpgmaker-script-skeleton [![Build Status](https://travis-ci.org/rakudayo/rpgmaker-pry.svg?branch=master)](https://travis-ci.org/rakudayo/rpgmaker-pry)
 
 ## Overview
 
