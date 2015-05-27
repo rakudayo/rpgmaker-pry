@@ -4,4 +4,4 @@ rvm:
 - 1.8.1  # For RMXP & RMVX
 - 1.9.2  # For RMVXA
 script:
-- bundle exec rspec --format documentation --color --require spec_helper
+- bundle exec rspec --format documentation --require spec_helper --color
